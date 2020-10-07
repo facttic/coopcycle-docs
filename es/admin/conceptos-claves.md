@@ -2,7 +2,7 @@
 title: Conceptos Claves 
 lang: es
 ref: conceptos-claves
-parent: Admin's guide
+parent: Guía de administración
 nav_order: 1
 ---
 

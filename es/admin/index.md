@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Guia de Administración
+title: Guía de Administración
 ref: admin-home
 has_children: true
 nav_order: 2

@@ -2,7 +2,7 @@
 title: Configuracion
 lang: es
 ref: admin-restaurants
-parent: Admin's guide
+parent: Guía de administración
 nav_order: 2
 ---
 

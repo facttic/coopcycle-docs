@@ -2,7 +2,7 @@
 title: Tienda
 lang: es
 ref: admin-tiendas
-parent: Admin's guide
+parent: Guía de administración
 nav_order: 4
 ---
 

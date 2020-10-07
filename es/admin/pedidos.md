@@ -2,7 +2,7 @@
 title: Pedidos
 lang: es
 ref: admin-pedidos
-parent: Admin's guide
+parent: Guía de administración
 nav_order: 3
 ---
 
