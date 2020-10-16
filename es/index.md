@@ -16,4 +16,4 @@ Si necesitas una guía acerca de cómo editar, podes ver [Edit Docs] o ir a Turo
 
 ---
 
-Para comenzar, podes dar una vistazo a [](/es/admin/conceptos-claves.html).
+Para comenzar, podes darle una vistazo a los [conceptos claves](/es/admin/conceptos-claves.html).

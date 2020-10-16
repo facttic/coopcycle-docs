@@ -2,14 +2,13 @@
 title: Pedidos
 lang: es
 ref: admin-pedidos
-parent: Admin's guide
+parent: Guía de administración
 nav_order: 3
 ---
 
 # Pedidos
 
-La página de pedidos muestra los pedidos solicitados por los clientes en la plataforma. 
-También permite manejar los pedidos de restaurantes.
+La página de pedidos muestra los pedidos solicitados por clientes. También permite manejar los pedidos de restaurantes.
 
 Hay dos tipos de pedidos:
 
@@ -27,13 +26,13 @@ Un pedido puede tener el siguiente estado:
 
 ## Lista de pedidos
 
-![Commandes]({{ "/assets/images/orders_fr.png" | absolute_url }})
+![Ordenes]({{ "/assets/images/orders_fr.png" | absolute_url }})
 
 La **lista de pedidos** muestra los pedidos que están en curso en la plataforma. Puede mostrar los pedidos cancelados marcando la opción: "Mostrar pedidos cancelados".
 
 El administrador puede cancelar un pedido haciendo clic en el botón `Cancelar` de un pedido. Los datos mostradas son:
 
-* El id, número de pedido.
+* Número de identificación de pedido.
 * El tipo de pedido.
 * Cliente que realizó el pedido.
 * El estado de la orden.
