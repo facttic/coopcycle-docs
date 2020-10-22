@@ -1,17 +1,51 @@
-This site is built using Jekyll and hosted on GitHub Pages.
+# CoopCycle Docs Repo
 
-To install:
+This site is built using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
+
+## Environment
+
+### Local
+
+Install Jekyll and project dependencies:
 ```
 gem install bundler jekyll
+bundle install
 ```
 
-To run it locally:
+Serve it locally:
 ```
-bundle install
 bundle exec jekyll serve --safe
 ```
 
-### Documentation
+Build Static Site:
+```
+bundle exec jekyll build
+```
+
+Update dependencies:
+> Note: it modifies Gemfile.lock
+```
+bundle exec jekyll update
+```
+
+### Docker
+
+Serve it and browse to it: [Open](http://localhost:4000)
+```shell
+make serve
+```
+
+Build Static site:
+```
+make update
+```
+
+Update dependencies:
+> Note: it modifies Gemfile.lock
+```
+make update
+```
+
+## Documentation
 
 The URLs will map the folder tree (they are not configured with a `.yml` file).
-
